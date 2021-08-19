@@ -1,0 +1,7 @@
+python C:\Users\USER\Desktop\models\research\object_detection\model_main_tf2.py --model_dir=C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\models\my_model --pipeline_config_path=C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\models\my_model\pipeline.config --num_train_steps=20
+
+
+
+python C:\models\research\object_detection\model_main_tf2.py --model_dir=C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\models\my_model --pipeline_config_path=C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\models\my_model\pipeline.config --num_train_steps=20
+
+ 

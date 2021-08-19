@@ -1,0 +1,3 @@
+python generate_tfrecord.py -x C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\images\test -l C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\annotations\label_map.pbtxt -o C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\annotations\test.record
+
+python generate_tfrecord.py -x C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\images\train -l C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\annotations\label_map.pbtxt -o C:\Users\USER\Desktop\General_Vehicle_Type_Recognition\Tensorflow\workspace\annotations\train.record
